@@ -50,6 +50,7 @@ textarea{
     color: #ffffff;
     background-color: rgb(18, 18, 20);
 }
+
 button {
     border-color: #3498db;
     color: #1cfd1d;
@@ -61,7 +62,13 @@ button {
     height: 50px;
     margin: 5px 40px;
 }
+
 button:hover {
     box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
     color: black;
+}
+.Roda{
+    width: 50%;
+    margin: 5% 35%;
+    color:#ffffff;
 }

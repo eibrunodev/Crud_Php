@@ -34,5 +34,6 @@
 
     ?>
 </div>
+<footer class="Roda"> &reg;Bruno Souza Lima - Francivaldo Monteiro do Nascimento</footer>
 </body>
 </html>
