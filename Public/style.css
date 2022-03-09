@@ -1,0 +1,67 @@
+html{
+    background-image: url('https://i.pinimg.com/originals/12/b2/3a/12b23a7752e8a7a4464c1ff5e596237f.gif');
+    background-size: cover;
+
+
+
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+.success{
+    padding: 20px;
+    border-radius: 3px;
+    background-image: url("https://giphy.com/clips/ge8f4At0BejIh0eiOT");
+    background-color: #4cff8d;
+    color: #ffffff;
+}
+.result{
+    padding: 20px;
+    background-color: rgb(18, 18, 20);
+    color: #ffffff;
+    display: block;
+    margin: 5px 0;
+}
+
+h3{
+    margin-left: 6%;
+    color: #ffffff;
+}
+.crud{
+    width: 50%;
+    margin: 0 40%;
+}
+input{
+    height: 30px;
+    display: block;
+    width: 40%;
+    border: none;
+    margin: 5px;
+    border-radius: 2px;
+    color: #ffffff;
+    background-color: rgb(18, 18, 20);
+}
+textarea{
+    padding: 5px;
+    height: 200px;
+    width: 40%;
+    display: block;
+    color: #ffffff;
+    background-color: rgb(18, 18, 20);
+}
+button {
+    border-color: #3498db;
+    color: #1cfd1d;
+    font-weight: bold;
+    box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    width: 180px;
+    height: 50px;
+    margin: 5px 40px;
+}
+button:hover {
+    box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+    color: black;
+}
